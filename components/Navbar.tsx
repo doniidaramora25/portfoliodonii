@@ -17,7 +17,7 @@ export default function Navbar() {
     <header className="fixed inset-x-0 top-0 z-50 border-b border-white/[0.07] bg-ink/80 backdrop-blur-xl">
       <nav className="container-shell flex h-[76px] items-center justify-between">
         <a href="#home" className="display-text text-xl font-bold tracking-tightest">
-          DONI<span className="text-accent">.</span>
+          PORTFOLIO DONI DARAMORA<span className="text-accent">.</span>
         </a>
         <div className="hidden items-center gap-9 md:flex">
           {links.map(([label, href]) => (

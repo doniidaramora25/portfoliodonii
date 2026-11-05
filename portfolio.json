@@ -1,0 +1,76 @@
+{
+  "profile": {
+    "name": "Doni Daramora",
+    "role": "Industrial Engineering Student",
+    "headline": "I turn ideas into meaningful impact.",
+    "description": "A curious learner exploring the intersection of industrial engineering, technology, and creative problem solving.",
+    "location": "Batam, Indonesia",
+    "availability": "Open to opportunities"
+  },
+  "about": {
+    "intro": "I enjoy understanding how things work, finding better ways to do them, and turning complex challenges into practical solutions.",
+    "paragraph": "My interests span process improvement, information systems, digital products, and collaborative projects. I believe good work happens when analytical thinking meets creativity and a willingness to keep learning.",
+    "stats": [
+      { "value": "01+", "label": "Years of experience" },
+      { "value": "05+", "label": "Projects explored" },
+      { "value": "∞", "label": "Ideas to build" }
+    ]
+  },
+  "skills": [
+    { "group": "Engineering & Analysis", "items": ["Industrial Engineering", "Process Improvement", "Problem Solving", "Data Analysis"] },
+    { "group": "Digital Tools", "items": ["Microsoft Excel", "AutoCAD", "Microsoft Office", "Google Workspace"] },
+    { "group": "Web & Technology", "items": ["HTML & CSS", "JavaScript (Learning)", "Next.js (Learning)", "Information Systems"] },
+    { "group": "Professional", "items": ["Team Collaboration", "Communication", "Adaptability", "Time Management"] }
+  ],
+  "projects": [
+    {
+      "number": "01",
+      "title": "Coffee Shop Information System",
+      "category": "Information Systems · Academic Project",
+      "description": "A study of business processes and information flows supporting ordering, sales, and customer service in a coffee shop environment.",
+      "tags": ["Business Process", "Information Systems", "Analysis"],
+      "visual": "coffee"
+    },
+    {
+      "number": "02",
+      "title": "HMTI Digital Initiatives",
+      "category": "Organization · Digital Workflow",
+      "description": "Digital communication and operational workflows to support organizational activities, recruitment announcements, and member coordination.",
+      "tags": ["Google Sheets", "Apps Script", "Workflow"],
+      "visual": "hmti"
+    },
+    {
+      "number": "03",
+      "title": "Production Activity Database",
+      "category": "Database · Academic Project",
+      "description": "A relational data model connecting operators, machines, and production activities for structured manufacturing records.",
+      "tags": ["ERD", "Database", "Manufacturing"],
+      "visual": "database"
+    }
+  ],
+  "experience": [
+    {
+      "period": "Professional Experience",
+      "role": "Material Handling Operator",
+      "organization": "Add company name",
+      "description": "Supported material movement and handling activities while maintaining attention to operational procedures, coordination, and workplace safety."
+    },
+    {
+      "period": "Organization",
+      "role": "HMTI — Industrial Engineering Student Association",
+      "organization": "Institut Teknologi Batam",
+      "description": "Contributed to student organization activities, event planning, member coordination, and digital communication initiatives."
+    },
+    {
+      "period": "Education",
+      "role": "Industrial Engineering Student",
+      "organization": "Institut Teknologi Batam",
+      "description": "Exploring industrial systems, process improvement, information systems, and engineering problem solving."
+    }
+  ],
+  "contact": {
+    "email": "your.email@example.com",
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/"
+  }
+}
